@@ -12,14 +12,14 @@
 
 
 
-### &nbsp;	v1.0.1:
+###  	v1.0.1:
 
 * USB configured as: Mass storage
 * Show software version in config file
 
 
 
-### &nbsp;	v1.0.x:
+###  	v1.0.2:
 
 * Show also Serial Number in config file
 * fixed: baro init error (-> need HW change)
@@ -29,12 +29,6 @@
 * Battery monitoring
 * Cloud-fly mode: Integrate Roll angle
 * Better Vario Tone (no frequency changes during beep)
-
-
-
-
-
-
-
-
-
+* fixed: no tone playing before and after button press \& no tone after switching off sound
+* 1 Second button hold for power on
+* Longer Calibration-window time
