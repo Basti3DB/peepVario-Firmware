@@ -32,3 +32,17 @@
 * fixed: no tone playing before and after button press \& no tone after switching off sound
 * 1 Second button hold for power on
 * Longer Calibration-window time
+
+
+
+###  	v1.0.3:
+
+* Bluetooth: add XCTrack raw temperature
+*            change LK8EX1 to send battery percent instead of voltage
+
+
+
+###  	v1.0.4:
+
+* Add 3 axis magnet sensor to Sensorfusion -> 9 DOF
+* Add landing detection
