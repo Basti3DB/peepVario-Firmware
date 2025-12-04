@@ -46,3 +46,14 @@
 
 * Add 3 axis magnet sensor to Sensorfusion -> 9 DOF
 * Add landing detection
+* always update sw version in config file
+* easy import for xc-tracer audio file in config
+* fix: MAC-OS usb mode
+* fix: no audio (vario) tones while calibrating
+
+
+
+### v1.1.0:
+
+* Firmware updates via USB -> drag\&drop
+* 
