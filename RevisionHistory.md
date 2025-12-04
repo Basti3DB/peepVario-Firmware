@@ -56,4 +56,4 @@
 ### v1.1.0:
 
 * Firmware updates via USB -> drag\&drop
-* 
+* Add separate Bootloader
