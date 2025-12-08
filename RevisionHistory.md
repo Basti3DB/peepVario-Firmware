@@ -57,3 +57,42 @@
 
 * Firmware updates via USB -> drag\&drop
 * Add separate Bootloader
+
+
+
+###  	v1.1.1:
+
+* -> new bootloader (only bootloader mode when button press <1s \& usb is connected)
+* fix: MAC-OS usb mode
+
+
+
+###  	v1.1.2:
+
+* ONLY works with Bootloader >v102
+* 
+
+
+
+
+
+BOOTLOADER: 
+
+### v1.0.0:
+
+* initial version
+
+
+
+###  	v1.0.1:
+
+* USB connection check + Button press check
+* 
+
+
+
+###  	v1.0.2:
+
+* upgrade max size to 18KB
+* End of update file detection
+* 
