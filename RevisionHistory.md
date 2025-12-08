@@ -93,6 +93,7 @@ BOOTLOADER:
 
 ###  	v1.0.2:
 
+* ONLY works with Firmware >v112
 * upgrade max size to 18KB
 * End of update file detection
 * 
