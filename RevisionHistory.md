@@ -2,6 +2,8 @@
 
 
 
+# Peep Vario Firmware
+
 ### v1.0.0:
 
 * DFU working
@@ -70,13 +72,20 @@
 ###  	v1.1.2:
 
 * ONLY works with Bootloader >v102
-* 
+* try fix: MAC-OS usb mode
+
+
+
+###  	v1.1.3:
+
+* add tone curve presets
+* add audio threshold presets
 
 
 
 
 
-BOOTLOADER: 
+# BOOTLOADER: 
 
 ### v1.0.0:
 
@@ -95,5 +104,5 @@ BOOTLOADER:
 
 * ONLY works with Firmware >v112
 * upgrade max size to 18KB
-* End of update file detection
+* temp. fix: end of update file detection
 * 
