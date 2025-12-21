@@ -80,12 +80,19 @@
 
 * add tone curve presets
 * add audio threshold presets
+* add tone feedback when usb is connected
+* change accel scale to 8g and gyro to 500dps (was clipping before)
+* add Kalman accel bias estimate
+* add Kalman adaptive accel noise scale
+* tune Kalman parameters
+* remove adaptive scaling in orientation filter
+* adapt Kalman to use different sensor data rates in future
 
 
 
 
 
-# BOOTLOADER: 
+# BOOTLOADER:
 
 ### v1.0.0:
 
