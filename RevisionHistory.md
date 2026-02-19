@@ -65,6 +65,14 @@
 * Implemented a fully ESKF for Sensor fusion
 * usb on macos still buggy
 
+###  	v1.2.3:
+* changed oconfig file save format in flash (now binary)
+* removed unused kalman parameters
+* Tuned ESKF parameters
+* Add g-force to XCTOD protocol
+* add ble webconfig support
+* ble firmwareupdate
+
 # BOOTLOADER:
 
 ### v1.0.0:
@@ -77,4 +85,7 @@
 * ONLY works with Firmware >v112
 * upgrade max size to 18KB
 * temp. fix: end of update file detection
-* 
+
+###  	v1.1.0:
+* add firmware update via BLE
+
