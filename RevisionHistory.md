@@ -73,6 +73,11 @@
 * add ble webconfig support
 * ble firmwareupdate
 
+###  	v1.2.4:
+* add shutdown via ble
+* fix website connect on first try
+* disabled: load default config all the time
+
 # BOOTLOADER:
 
 ### v1.0.0:
