@@ -78,3 +78,9 @@ R1
 * add shutdown via ble
 * fix website connect on first try
 * disabled: load default config all the time
+
+###  	v1.2.5:
+* read serial number from OTP (one time programmable)
+* read hardware revision from OTP (one time programmable)
+* Send both via ble to website
+
