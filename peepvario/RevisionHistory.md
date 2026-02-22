@@ -84,3 +84,10 @@ R1
 * read hardware revision from OTP (one time programmable)
 * Send both via ble to website
 
+###  	v1.2.6:
+* tune ESKF
+* better audio output
+* remove debug values in config file
+* fix vario run after website disconnect
+* add watchdog supervison
+
