@@ -16,3 +16,5 @@
 ###  	v1.1.0:
 * add firmware update via BLE
 
+###  	v1.2.0:
+* add recovery firmware update via BLE
