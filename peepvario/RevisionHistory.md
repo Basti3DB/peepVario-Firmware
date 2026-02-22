@@ -90,4 +90,6 @@ R1
 * remove debug values in config file
 * fix vario run after website disconnect
 * add watchdog supervison
+* add beep on website connect
+
 
