@@ -92,4 +92,8 @@ R1
 * add watchdog supervison
 * add beep on website connect
 
-
+###  	v1.2.7:
+* add tone simulator via website
+* fix tonecurve save 
+* fix audio (sinkrates)
+* fix ble name
