@@ -97,3 +97,10 @@ R1
 * fix tonecurve save 
 * fix audio (sinkrates)
 * fix ble name
+
+###  	v1.2.8:
+* add auto-shutdown (after 15 minutes)
+* tune ESKF
+* add Bootloader version to config
+* fix landing detection
+
