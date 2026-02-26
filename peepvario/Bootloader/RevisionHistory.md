@@ -18,3 +18,6 @@
 
 ###  	v1.2.0:
 * add recovery firmware update via BLE
+
+###  	v1.2.1:
+* fix valid firmware detection
