@@ -21,3 +21,8 @@
 
 ###  	v1.2.1:
 * fix valid firmware detection
+
+###  	v1.2.2:
+* lower min FW size
+* higher max FW size
+
