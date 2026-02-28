@@ -104,3 +104,9 @@ R1
 * add Bootloader version to config
 * fix landing detection
 
+###  	v1.2.9:
+* fix battery use real LiPo curve
+* change BLE name to "...-cfg" -> without for XCTrack
+* fix Bluetooth startup time
+* fix default tone profile
+
