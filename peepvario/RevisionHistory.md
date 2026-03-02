@@ -110,3 +110,8 @@ R1
 * fix Bluetooth startup time
 * fix default tone profile
 
+###  	v1.2.10:
+* better landing & takeoff detection
+* add Bluetooth auto shutdown after 5 minutes to save power
+* add BLE config command: GET SN
+
