@@ -115,3 +115,6 @@ R1
 * add Bluetooth auto shutdown after 5 minutes to save power
 * add BLE config command: GET SN
 
+###  	v1.2.11:
+* reduce battery read to 10 minutes
+* save and load bias estimates of eskf
