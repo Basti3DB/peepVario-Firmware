@@ -116,5 +116,12 @@ R1
 * add BLE config command: GET SN
 
 ###  	v1.2.11:
+* BUG: takeoff detection not working
 * reduce battery read to 10 minutes
 * save and load bias estimates of eskf
+
+###  	v1.2.12:
+* Tripple press = manual takeoff detection
+* change default takeoff threshold to 2m/s
+* fix tonepoint parser
+* fix eskf bias save
