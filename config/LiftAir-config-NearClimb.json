@@ -1,0 +1,17 @@
+{
+  "audio.thresholdPreset": "custom",
+  "audio.climbToneOnThreshold": "-0.50",
+  "audio.sinkToneOnThreshold": "-2.00",
+  "audio.takeoffThreshold": "2.00",
+  "audio.volumeMode": "LOUD",
+  "tonecurve.preset": "custom",
+  "bluetooth.protocol": "LK8EX1",
+  "tonecurve.point.0": "-10.00,50,100,100",
+  "tonecurve.point.1": "-1.95,170,100,100",
+  "tonecurve.point.2": "-0.45,50,499,13",
+  "tonecurve.point.3": "0.00,217,458,4",
+  "tonecurve.point.4": "0.10,400,457,10",
+  "tonecurve.point.5": "0.20,425,576,28",
+  "tonecurve.point.6": "3.20,801,386,55",
+  "tonecurve.point.7": "10.00,1800,150,80"
+}
