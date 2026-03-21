@@ -131,3 +131,9 @@ R1
 * tune ESKF parameters
 * new tonecurve defaults
 
+###  	v1.3.0:
+* ESKF use mag sensor
+* new startup/shutdown melody
+* new calibration sucess beep
+* bugfix: config parsing case insensitive
+
