@@ -125,3 +125,9 @@ R1
 * change default takeoff threshold to 2m/s
 * fix tonepoint parser
 * fix eskf bias save
+
+###  	v1.2.13:
+* bugfix: audio queue delay
+* tune ESKF parameters
+* new tonecurve defaults
+
