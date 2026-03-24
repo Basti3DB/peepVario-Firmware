@@ -137,3 +137,8 @@ R1
 * new calibration sucess beep
 * bugfix: config parsing case insensitive
 
+###  	v1.3.1:
+* add blinky LED
+* add flight statistics
+* fix auto shutdown
+
