@@ -142,3 +142,6 @@ R1
 * add flight statistics
 * fix auto shutdown
 
+###  	v1.3.2:
+* start calibration via website
+* change default BLE name to "LiftAir" + SerialNumber
