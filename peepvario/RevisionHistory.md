@@ -145,3 +145,9 @@ R1
 ###  	v1.3.2:
 * start calibration via website
 * change default BLE name to "LiftAir" + SerialNumber
+
+###  	v1.3.3:
+* tune ESKF parameters
+* tune audio lowpass filter (faster)
+* add: high vertical velocity delta overwrite current audio
+* BLE: XTOD add 3 - vertical velocity
