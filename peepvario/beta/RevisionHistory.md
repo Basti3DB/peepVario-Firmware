@@ -6,3 +6,6 @@
 
 ### v1.3.4 _ 2:
 * fix auto revision. Focused on CI automation.
+
+### v1.3.4 _ 3:
+* add audio volume LOW. Focused on application behavior, configuration handling, task scheduling and runtime behavior.
