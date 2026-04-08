@@ -9,3 +9,6 @@
 
 ### v1.3.4 _ 3:
 * add audio volume LOW. Focused on application behavior, configuration handling, task scheduling and runtime behavior.
+
+### v1.3.4 _ 4:
+* fix landing thresholds, adjust eskf. Focused on sensor fusion and processing, task scheduling and runtime behavior.
