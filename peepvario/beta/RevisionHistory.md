@@ -51,3 +51,6 @@
 ### v1.3.4 _ 9:
 - fix test framework
 - manual takeoff detection double press, tripple press is calibration
+
+### v1.3.4 _ 10:
+- set low volume pwm duty to 1
