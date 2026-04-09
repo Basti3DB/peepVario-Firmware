@@ -12,3 +12,8 @@
 
 ### v1.3.4 _ 4:
 * fix landing thresholds, adjust eskf. Focused on sensor fusion and processing, task scheduling and runtime behavior.
+
+### v1.3.4 _ 5:
+- add BLE config capabilities
+- change tonecurve standart to xc tracer default
+- edit auto obeta commit - include all commit msg of push
