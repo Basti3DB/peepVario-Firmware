@@ -27,3 +27,6 @@
 
 ### v1.3.4 _ 7:
 - add audio volume control with >1 sec long press
+
+### v1.3.4 _ 8:
+- fix production build
