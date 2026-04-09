@@ -1,9 +1,26 @@
 # Peep Vario beta Firmware
 
 ### v1.0.0 _ 1:
-* test automatic built
+* 
+### v1.2.1 _ UART_BINARY:
+* 
+### v1.2.6 _ 2:
+* 
+### v1.2.6 _ ESKF_fasterBiasEstimate:
+* 
+### v1.2.11 _ lowPower_bugTakeoff:
+* 
+### v1.2.12 _ HWoutputs:
+* 
+### v1.2.12 _ HWoutputs_3:
+* 
+### v1.2.13 _ HWoutputs_2:
+* 
+### v1.2.13 _ ringubffer:
+* 
 
-
+### v1.3.4 _ 1:
+* 
 ### v1.3.4 _ 2:
 * fix auto revision. Focused on CI automation.
 
