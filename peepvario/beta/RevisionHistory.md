@@ -24,3 +24,6 @@
 - remove igc key
 - lower battery beeps f
 - even lower battery beeps f
+
+### v1.3.4 _ 7:
+- add audio volume control with >1 sec long press
