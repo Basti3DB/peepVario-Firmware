@@ -17,3 +17,10 @@
 - add BLE config capabilities
 - change tonecurve standart to xc tracer default
 - edit auto obeta commit - include all commit msg of push
+
+### v1.3.4 _ 6:
+- change tonecurve preset2 name to sniffer
+- refactor configserializer
+- remove igc key
+- lower battery beeps f
+- even lower battery beeps f
