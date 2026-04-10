@@ -54,3 +54,6 @@
 
 ### v1.3.4 _ 10:
 - set low volume pwm duty to 1
+
+### v1.3.4 _ 11:
+- change default othresholdpreset to standard
