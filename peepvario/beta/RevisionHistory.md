@@ -57,3 +57,8 @@
 
 ### v1.3.4 _ 11:
 - change default othresholdpreset to standard
+
+### v1.3.4 _ 12:
+- add logo
+- add baro pseudo vertical speed
+- tune eskf accel bias estimate
