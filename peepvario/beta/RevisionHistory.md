@@ -62,3 +62,6 @@
 - add logo
 - add baro pseudo vertical speed
 - tune eskf accel bias estimate
+
+### v1.3.4 _ 13:
+- tune eskf gyro bias estimate
