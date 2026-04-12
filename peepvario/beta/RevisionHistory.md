@@ -68,3 +68,6 @@
 
 ### v1.3.4 _ 14:
 - tune eskf
+
+### v1.3.4 _ 15:
+- fix takeoff threshold range
