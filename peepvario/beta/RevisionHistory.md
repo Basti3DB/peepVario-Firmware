@@ -65,3 +65,6 @@
 
 ### v1.3.4 _ 13:
 - tune eskf gyro bias estimate
+
+### v1.3.4 _ 14:
+- tune eskf
