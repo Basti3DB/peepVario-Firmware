@@ -83,3 +83,6 @@
 - UserManual configWebsit v1
 - UserManual change logo
 - new audio output not working... remove some overhead to fit in flash
+
+### v1.3.5 _ 2:
+- fix system.userstorrage
