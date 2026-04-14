@@ -151,3 +151,12 @@ R1
 * tune audio lowpass filter (faster)
 * add: high vertical velocity delta overwrite current audio
 * BLE: XTOD add 3 - vertical velocity
+
+###  	v1.3.4:
+* add: Audio volume mode "LOW"
+* add: Audio volume change with >1s press
+* better Takeoff & Landing detection
+* add: Manual Takeoff overwrite -> double press
+* tune ESKF parameters
+* new tone presets & correct order
+* Reduce battery percentage beep frequency
