@@ -74,3 +74,12 @@
 
 ### v1.3.4 _ 16:
 - change order of presets
+
+### v1.3.5 _ 1:
+- VERSION 1 3 5, Implement new Piezo driver Add proper LaTeX Manuals
+- add new configparameter: userStorage
+- UserManual add screenshots
+- fix latex setup
+- UserManual configWebsit v1
+- UserManual change logo
+- new audio output not working... remove some overhead to fit in flash
