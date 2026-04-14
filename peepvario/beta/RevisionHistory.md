@@ -71,3 +71,6 @@
 
 ### v1.3.4 _ 15:
 - fix takeoff threshold range
+
+### v1.3.4 _ 16:
+- change order of presets
