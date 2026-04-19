@@ -86,3 +86,9 @@
 
 ### v1.3.5 _ 2:
 - fix system.userstorrage
+
+### v1.3.5 _ 3:
+- Ignore button long press on startup
+- Better error handling (more retries) - auto shutdown
+- fix error auto shutdown
+- more toleroant landing detection
