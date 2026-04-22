@@ -92,3 +92,9 @@
 - Better error handling (more retries) - auto shutdown
 - fix error auto shutdown
 - more toleroant landing detection
+
+### v1.3.5 _ 4:
+- add kanban
+- more kanban
+- bugfix: volume change with device was not saving
+- better landing, better eskf
