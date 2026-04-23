@@ -98,3 +98,9 @@
 - more kanban
 - bugfix: volume change with device was not saving
 - better landing, better eskf
+
+### v1.3.5 _ 5:
+- adjust SNIFFER preset
+- create UML - first draft
+- more uml tries
+- Merge branches 'main' and 'main' of https://github.com/Basti3DB/peepVario-dev
