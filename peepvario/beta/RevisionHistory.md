@@ -78,10 +78,6 @@
 ### v1.3.5 _ 1:
 - VERSION 1 3 5, Implement new Piezo driver Add proper LaTeX Manuals
 - add new configparameter: userStorage
-- UserManual add screenshots
-- fix latex setup
-- UserManual configWebsit v1
-- UserManual change logo
 - new audio output not working... remove some overhead to fit in flash
 
 ### v1.3.5 _ 2:
@@ -94,13 +90,10 @@
 - more toleroant landing detection
 
 ### v1.3.5 _ 4:
-- add kanban
-- more kanban
+- NOT WORKING
 - bugfix: volume change with device was not saving
 - better landing, better eskf
 
 ### v1.3.5 _ 5:
+- NOT WORKING
 - adjust SNIFFER preset
-- create UML - first draft
-- more uml tries
-- Merge branches 'main' and 'main' of https://github.com/Basti3DB/peepVario-dev
