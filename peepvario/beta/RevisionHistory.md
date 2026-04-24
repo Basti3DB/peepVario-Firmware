@@ -97,3 +97,8 @@
 ### v1.3.5 _ 5:
 - NOT WORKING
 - adjust SNIFFER preset
+
+### v1.3.5 _ 6:
+- restore working eskf params
+- try Audio PWM Sine
+- add nice built statistics
