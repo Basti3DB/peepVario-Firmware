@@ -110,3 +110,7 @@
 - add simulation run as TestCase
 - fix simulation again
 - new eskf parameters
+
+### v1.3.5 _ 9:
+- add tripple press for manual landing
+- and fix simulation test case
