@@ -1,0 +1,71 @@
+name: Tally Bug Report to Issue
+
+on:
+  repository_dispatch:
+    types:
+      - tally_bug_report
+
+permissions:
+  issues: write
+
+jobs:
+  create-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create issue from Tally payload
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const payload = context.payload.client_payload || {};
+
+            const normalize = (value) => {
+              if (value === undefined || value === null) return '';
+              return String(value).trim();
+            };
+
+            const title = normalize(payload.title) || 'Bug report from Tally';
+            const description = normalize(payload.description) || 'No description provided.';
+            const serialNumber = normalize(payload.serialNumber) || 'unknown';
+            const severity = normalize(payload.severity).toLowerCase();
+
+            const allowedSeverities = new Set(['low', 'medium', 'high', 'critical']);
+            const requestedLabels = ['bug'];
+            if (allowedSeverities.has(severity)) {
+              requestedLabels.push(`severity:${severity}`);
+            }
+
+            const existingLabels = await github.paginate(
+              github.rest.issues.listLabelsForRepo,
+              {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                per_page: 100,
+              },
+              (response) => response.data.map((label) => label.name)
+            );
+
+            const existingLabelSet = new Set(existingLabels);
+            const labels = requestedLabels.filter((name) => existingLabelSet.has(name));
+
+            const body = [
+              '### Description',
+              description,
+              '',
+              '### Device Serial Number',
+              serialNumber,
+              '',
+              '### Severity',
+              severity || 'unspecified',
+              '',
+              '### Source',
+              'Submitted from Tally form via Make.',
+            ].join('\n');
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body,
+              labels,
+            });
