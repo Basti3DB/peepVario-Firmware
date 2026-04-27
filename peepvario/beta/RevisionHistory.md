@@ -121,3 +121,6 @@
 
 ### v1.3.5 _ 11:
 - new eskf parameters
+
+### v1.3.5 _ 12:
+- new eskf parameters; fixed landing detection (10s)
