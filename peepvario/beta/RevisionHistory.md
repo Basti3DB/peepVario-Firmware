@@ -124,3 +124,6 @@
 
 ### v1.3.5 _ 12:
 - new eskf parameters; fixed landing detection (10s)
+
+### v1.3.5 _ 13:
+- new button gestures: Double press: Changes volume. Triple press: Triggers manual takeoff (before flight) or manual landing (during flight). Long press (1s): Enters heading lock mode (with a short beep after 1s for feedback). Single short press when heading lock active: Exits heading lock.
