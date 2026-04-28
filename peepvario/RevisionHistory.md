@@ -160,3 +160,14 @@ R1
 * tune ESKF parameters
 * new tone presets & correct order
 * Reduce battery percentage beep frequency
+
+###  	v1.4.0:
+* Vario working well :)
+* changed: Button gestures -> read manual
+* * double press: Volume change
+* * tripple press: manual takeoff/landing
+* * 1s long press: enter heading lock
+* * short press: exit heading lock
+* changed: SNIFFER audio preset
+* fix: save volume after changing
+* add: Firmware info (release/beta)
