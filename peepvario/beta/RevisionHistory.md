@@ -131,3 +131,6 @@
 ### v1.4.1 _ 1:
 - VERSION 1 4 0
 - VERSION 1 4 1
+
+### v1.4.1 _ 2:
+- try different Audio modulation
