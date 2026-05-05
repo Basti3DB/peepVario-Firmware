@@ -134,3 +134,8 @@
 
 ### v1.4.1 _ 2:
 - try different Audio modulation
+
+### v1.4.1 _ 3:
+- work on liftair user manual
+- try different Audio modulation 2
+- FIX: use new tone after threshold is reached
