@@ -26,3 +26,6 @@
 * lower min FW size
 * higher max FW size
 
+###  	v1.3.0:
+* change usb volume name
+
