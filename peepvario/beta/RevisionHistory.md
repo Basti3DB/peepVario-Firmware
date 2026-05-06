@@ -139,3 +139,6 @@
 - work on liftair user manual
 - try different Audio modulation 2
 - FIX: use new tone after threshold is reached
+
+### v1.4.1 _ 4:
+- fix: beep mixup of fast buttonpresses
