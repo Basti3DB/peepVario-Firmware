@@ -29,3 +29,5 @@
 ###  	v1.3.0:
 * change usb volume name
 
+###  	v1.4.0:
+* better audio quality
