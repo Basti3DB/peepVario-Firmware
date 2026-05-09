@@ -149,3 +149,8 @@
 - huge audio improovements
 - add landing beep
 - bugfix: landing detection state transition
+
+### v1.4.1 _ 6:
+- add separate 1s button press confirmation beep
+- BL verison 1 4 0 audio improvements
+- 1s button press, shorter play time
