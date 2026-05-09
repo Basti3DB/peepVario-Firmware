@@ -171,3 +171,10 @@ R1
 * changed: SNIFFER audio preset
 * fix: save volume after changing
 * add: Firmware info (release/beta)
+
+###  	v1.5.0:
+* huge audio improvements
+* add: Audio feedback for landing detection
+* fix: double press audio feedback
+* fix: tone mixup at new audio tone
+* fix: 1s press indication
