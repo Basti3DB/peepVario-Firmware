@@ -142,3 +142,10 @@
 
 ### v1.4.1 _ 4:
 - fix: beep mixup of fast buttonpresses
+
+### v1.4.1 _ 5:
+- change volume name of usb device
+- BL version 1 3 0 - new usb volume name
+- huge audio improovements
+- add landing beep
+- bugfix: landing detection state transition
