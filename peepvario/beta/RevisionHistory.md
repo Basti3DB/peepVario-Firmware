@@ -158,3 +158,7 @@
 ### v1.5.1 _ 1:
 - Version 1 5 0 -> 1 5 1 now working
 - try new eskf parameters (higher bias estimate)
+
+### v1.5.1 _ 2:
+- More tolerant landing detection
+- update github pages
