@@ -162,3 +162,6 @@
 ### v1.5.1 _ 2:
 - More tolerant landing detection
 - update github pages
+
+### v1.5.1 _ 3:
+- try new eskf parameters (changed expected noise)
