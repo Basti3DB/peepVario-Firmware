@@ -165,3 +165,6 @@
 
 ### v1.5.1 _ 3:
 - try new eskf parameters (changed expected noise)
+
+### v1.5.1 _ 4:
+- try new eskf parameters (lower baro noise)
