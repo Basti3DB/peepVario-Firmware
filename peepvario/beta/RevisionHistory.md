@@ -168,3 +168,7 @@
 
 ### v1.5.1 _ 4:
 - try new eskf parameters (lower baro noise)
+
+### v1.5.1 _ 5:
+- intital setup for LiftAir_zero_v2
+- add to cmake
