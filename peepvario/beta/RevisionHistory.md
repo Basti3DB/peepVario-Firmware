@@ -172,3 +172,12 @@
 ### v1.5.1 _ 5:
 - intital setup for LiftAir_zero_v2
 - add to cmake
+
+### v1.5.1 _ 6:
+- add EEPROM to HardwareFactory
+- wire IGC log to SD card
+- add SW update flow diagram
+- add UML
+- fix uml compiler
+- add new pins to Liftairzerov2 product
+- change uml
