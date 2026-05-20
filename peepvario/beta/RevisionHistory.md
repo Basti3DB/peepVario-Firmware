@@ -181,3 +181,15 @@
 - fix uml compiler
 - add new pins to Liftairzerov2 product
 - change uml
+
+### v1.5.1 _ 7:
+- update uml
+- add heartbeat to bootloaderupdater
+- refactor Bootloader updater make all paths relative
+- apply same blu to liftairzerov2
+- refactor Production Test
+- add eeprom to test
+- add simulation outputs to git ignore
+- Add UTC timestamp to SD igc log
+- make dataflow uml
+- tune ESKF
