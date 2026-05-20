@@ -193,3 +193,8 @@
 - Add UTC timestamp to SD igc log
 - make dataflow uml
 - tune ESKF
+
+### v1.5.1 _ 8:
+- create interface class for bluetooth device
+- remove additional audio velocity filter, which caused delay
+- lower direct fire threshold
