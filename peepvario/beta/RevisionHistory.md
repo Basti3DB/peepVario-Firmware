@@ -198,3 +198,8 @@
 - create interface class for bluetooth device
 - remove additional audio velocity filter, which caused delay
 - lower direct fire threshold
+
+### v1.5.1 _ 9:
+- add IGC log forwarding via ble
+- add nrf ble module implementation to liftair zero v2
+- Merge branch 'main' of https://github.com/Basti3DB/peepVario-dev
