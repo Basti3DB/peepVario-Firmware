@@ -203,3 +203,10 @@
 - add IGC log forwarding via ble
 - add nrf ble module implementation to liftair zero v2
 - Merge branch 'main' of https://github.com/Basti3DB/peepVario-dev
+
+### v1.5.1 _ 10:
+- fix bootloader built issue
+- fix Production test build issues
+- fix test run
+- add LZV2 to beta firmware upload
+- also update manual upload, also only uplaod if tests run clean
