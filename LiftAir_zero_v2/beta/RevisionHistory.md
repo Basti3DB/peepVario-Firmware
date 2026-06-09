@@ -23,3 +23,6 @@
 - lower preamble pusle (nicer audio)
 - Tune ESKF
 - add experimental touch detection
+
+### v1.0.0 _ 3:
+- change the touch detection to double-press
