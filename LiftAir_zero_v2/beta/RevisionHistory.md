@@ -26,3 +26,6 @@
 
 ### v1.0.0 _ 3:
 - change the touch detection to double-press
+
+### v1.0.0 _ 4:
+- add a touch delay for double press
