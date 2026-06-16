@@ -178,3 +178,8 @@ R1
 * fix: double press audio feedback
 * fix: tone mixup at new audio tone
 * fix: 1s press indication
+
+###  	v1.5.1:
+* Sensor algorithmus improvements
+* better automatic landing detection
+* small audio improvements
