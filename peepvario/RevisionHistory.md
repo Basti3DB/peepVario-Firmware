@@ -183,3 +183,6 @@ R1
 * Sensor algorithmus improvements
 * better automatic landing detection
 * small audio improvements
+
+###  	v1.5.2:
+* add experimental "touch" detection
