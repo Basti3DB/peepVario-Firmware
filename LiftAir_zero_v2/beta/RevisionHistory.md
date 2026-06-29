@@ -29,3 +29,8 @@
 
 ### v1.0.0 _ 4:
 - add a touch delay for double press
+
+### v1.1.0 _ 1:
+- fix crash at gps fix
+- write correct IGC header
+
