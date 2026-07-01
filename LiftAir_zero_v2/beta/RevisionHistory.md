@@ -34,3 +34,7 @@
 - fix crash at gps fix
 - write correct IGC header
 
+### v1.1.0 _ 2:
+- fix crash at gps fix #2
+- fix sensortask&audiotask crash
+
