@@ -236,3 +236,6 @@
 
 ### v1.5.1 _ 14:
 - add a touch delay for double press
+
+### v1.5.3 _ 1:
+- non-functial change in peepvario
