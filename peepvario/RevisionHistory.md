@@ -186,6 +186,3 @@ R1
 
 ###  	v1.5.2:
 * add experimental "touch" detection
-### v1.5.3:
-- non-functial change in peepvario
-- ci: add main release publish with versioned uniqueness check
