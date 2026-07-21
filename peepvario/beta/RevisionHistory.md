@@ -238,4 +238,4 @@
 - add a touch delay for double press
 
 ### v1.5.3 _ 1:
-- non-functial change in peepvario
+- more reliable takeoff detection (altitude based)
