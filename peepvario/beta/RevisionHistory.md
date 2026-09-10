@@ -239,3 +239,6 @@
 
 ### v1.5.3 _ 1:
 - more reliable takeoff detection (altitude based)
+
+### v1.5.3 _ 2:
+- fix production test fw

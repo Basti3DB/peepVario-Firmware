@@ -38,3 +38,6 @@
 - fix crash at gps fix #2
 - fix sensortask&audiotask crash
 
+
+### v1.1.0 _ 3:
+- fix production test fw
