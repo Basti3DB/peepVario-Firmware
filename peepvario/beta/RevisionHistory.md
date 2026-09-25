@@ -242,3 +242,8 @@
 
 ### v1.5.3 _ 2:
 - fix production test fw
+
+### v1.5.3 _ 3:
+- IGC logger real 1Hz schedule & more robust
+- add audio state: OFF to double press cycle & tests
+- BLE: only start ble after main uc enables, with timeout of 5s
