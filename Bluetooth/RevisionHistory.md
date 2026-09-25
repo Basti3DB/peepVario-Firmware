@@ -17,3 +17,6 @@ R1
 ### v1.3.0:
 * update-able
 * separate bootloader
+
+### v1.4.0:
+* fix boot race condidtion when ble is connected
