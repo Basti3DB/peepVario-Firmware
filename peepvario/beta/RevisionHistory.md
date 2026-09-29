@@ -250,3 +250,10 @@
 
 ### v1.5.3 _ 4:
 - ble version read
+
+### v1.5.3 _ 5:
+- more delay to ble version read
+- add gpsfix to XCTOD protocol
+- reduce ble telemetry to 250ms
+- add config command GET_GPS_STATUS
+- new igc list command (20 listings)
