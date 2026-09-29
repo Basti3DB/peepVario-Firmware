@@ -46,3 +46,6 @@
 - IGC logger real 1Hz schedule & more robust
 - add audio state: OFF to double press cycle & tests
 - BLE: only start ble after main uc enables, with timeout of 5s
+
+### v1.1.0 _ 5:
+- ble version read
