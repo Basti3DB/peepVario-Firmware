@@ -257,3 +257,9 @@
 - reduce ble telemetry to 250ms
 - add config command GET_GPS_STATUS
 - new igc list command (20 listings)
+
+### v1.5.3 _ 6:
+- add utc time to gps poll
+- delay ble init 3 seconds
+- add 3D view via ble
+- gps status: snr per satellite
