@@ -263,3 +263,6 @@
 - delay ble init 3 seconds
 - add 3D view via ble
 - gps status: snr per satellite
+
+### v1.5.3 _ 7:
+- commit rest of ble bugfixes

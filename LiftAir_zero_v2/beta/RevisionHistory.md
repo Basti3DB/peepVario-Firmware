@@ -56,3 +56,6 @@
 - reduce ble telemetry to 250ms
 - add config command GET_GPS_STATUS
 - new igc list command (20 listings)
+
+### v1.1.0 _ 7:
+- commit rest of ble bugfixes
