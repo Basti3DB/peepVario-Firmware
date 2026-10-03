@@ -59,3 +59,9 @@
 
 ### v1.1.0 _ 7:
 - commit rest of ble bugfixes
+
+### v1.1.0 _ 8:
+- better gps height parsing
+- short delay in nrf update
+- nrf build job - app only - combined image
+- temp fix ble save tonecurve
