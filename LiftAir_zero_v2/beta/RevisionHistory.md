@@ -65,3 +65,6 @@
 - short delay in nrf update
 - nrf build job - app only - combined image
 - temp fix ble save tonecurve
+
+### v1.1.0 _ 9:
+- fix gps height not sending
