@@ -68,3 +68,6 @@
 
 ### v1.1.0 _ 9:
 - fix gps height not sending
+
+### v1.1.0 _ 10:
+- igc preview
