@@ -278,3 +278,15 @@
 
 ### v1.5.3 _ 10:
 - igc preview
+
+### v1.5.3 _ 11:
+- battery percent log
+- BLE: change default route to 0xFFE0
+- BL: add delay before sync byte
+- bluetooth task cosmetic
+- blink bootloader while trying to sync
+- BLE: add WDG
+- fix battery percent log
+- fix error log battery write; more time for ble init 5sec
+- LIFTAIR_ZERO_V3: ADD Display
+- add display tests
