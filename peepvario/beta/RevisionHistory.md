@@ -290,3 +290,7 @@
 - fix error log battery write; more time for ble init 5sec
 - LIFTAIR_ZERO_V3: ADD Display
 - add display tests
+
+### v1.5.3 _ 12:
+- change display driver
+- add mag correction
