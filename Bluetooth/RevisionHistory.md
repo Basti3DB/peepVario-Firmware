@@ -26,3 +26,6 @@ R1
 
 ### v1.4.3:
 * fix boot init error
+
+### v1.4.4:
+* fix ble update
