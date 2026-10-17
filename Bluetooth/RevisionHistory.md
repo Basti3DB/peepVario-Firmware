@@ -23,3 +23,6 @@ R1
 
 ### v1.4.1:
 * App update only (no Softdevice)
+
+### v1.4.3:
+* fix boot init error
