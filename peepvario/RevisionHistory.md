@@ -186,3 +186,159 @@ R1
 
 ###  	v1.5.2:
 * add experimental "touch" detection
+### v1.5.3:
+- setup my new laptop
+- move downloaded nrf software to software
+- Download NRF ble "firmware"
+- add shortcut to vscode ble dir
+- v122, new config binary save
+- implement BLE firmware for NRF chip
+- change ble code so vs can compile it
+- add gitignore
+- add version to compiled binary
+- add ble run and debug setup
+- change ble run configs
+- fix ble run configs
+- fix ble run configs - segger flash tool
+- lots of trials to get ble running
+- more trials
+- configure clangd
+- ble things
+- ble tests..
+- add calibration via ble, lot of tries to get new ble module running
+- ble simple test are working
+- change ble led pin to 4
+- ble blinky kinda working (break once running)
+- ble module onow parly woorking
+- add vertical velocity to XCTOD
+- start implement transparent uart to ble
+- more ble things
+- adapt to nordic example
+- more trials
+- AI means it is working
+- BLE now showing up, Bootloader disabled
+- BLE connectable
+- custom UUID and tx working
+- dummy XCTOD
+- add Nordic Uart Service UUID
+- xctrack works, but no updates
+- still no updates
+- running again, fixed  clearing faults before debug
+- really working after merge, but no periodic update
+- xctrack works, also periodic sending
+- wire transparent uart to NUS, working
+- add task so nrf module does run without debugger
+- other things
+- implement VG6328 at commands clone
+- fix hardfault
+- fix UART BLE bridge
+- VG6328 clone now working
+- Merge all built outputs into 1 file
+- Refactor source code
+- BLE nrf module fw update: fix long writes
+- ble add deticated command protocol set
+- LiftAirzeroV2 now booting to app
+- fix ble msg checksum, add connection LED (green), correctly set ble ROUTE id
+- try to get ble working..
+- temp uart ble bridge on stm
+- lot of ble debugging
+- nrf firmware now working
+- add Watchdog, try getting ble fast (without success)
+- BLE: try zello service UUID
+- ble: ochange zello UUID
+- Split ble telemetry
+- fix ble combined binary creation
+- ble: correct zello service UUID
+- add nrf sw reset
+- ble update receive working
+- nrf: add getVersion
+- nrf: add terminator
+- fix: save version to config.txt file
+- nrf: bootloader fw update
+- few more ble update stream trial
+- Bootloader: button hold >1s skips update.
+- add delay to nrf ble update
+- nrf update, first chunk only
+- nrf update, first chunk only
+- almost working
+- almost working
+- litte steps
+- litte steps
+- more
+- more
+- NRF updates working!
+- NRF updates working!
+- add igc log sd flash intervall to 5000ms
+- better error log
+- watchdog keepalive in bt save and getall cmd
+- new prios, add rst markers
+- more trials, but no sucess
+- add gps mock
+- wire igc logger to global flightsatus tracker
+- fix multi tone output
+- improve logging
+- fix error message igc logging
+- remove error logging in igc logger
+- add config parameter "logOnlyWhenFlying"
+- try to find the reset bug, lot of debug msg
+- disable gps dummy
+- fix tests
+- add error source output to Bootloader
+- BLE version 1.3.0
+- BLE version 1.3.0
+- fix auto shutdown logic
+- bug: backwards compatibility for igc parameters for peepvario
+- fix production test fw
+- IGC logger real 1Hz schedule & more robust
+- add audio state: OFF to double press cycle & tests
+- BLE: only start ble after main uc enables, with timeout of 5s
+- BLE: only start ble after main uc enables, with timeout of 5s
+- ci: add nRF52805 BLE firmware build job (beta only)
+- fix(nrf-ble): resolve case-sensitive version.hpp filename mismatch for Linux CI
+- fix(nrf-ble): resolve case-sensitive version.hpp filename mismatch for Linux CI
+- fix(nrf-ble): update version.hpp comment for lowercase filename
+- fix(nrf-ble): update version.hpp comment for lowercase filename
+- ci: isolate peepVario/LiftAir publish steps so one product's failure doesn't block the other
+- test(nrf-ble): add host GoogleTest framework for pure-logic firmware components
+- test(nrf-ble): add host GoogleTest framework for pure-logic firmware components
+- ci: run nRF host unit tests after the firmware build instead of before
+- ci: split nRF host tests into their own job; fix STM32 upload step that got nested inside build_nrf_firmware
+- ble version read
+- more delay to ble version read
+- add gpsfix to XCTOD protocol
+- reduce ble telemetry to 250ms
+- add config command GET_GPS_STATUS
+- new igc list command (20 listings)
+- add utc time to gps poll
+- delay ble init 3 seconds
+- add 3D view via ble
+- gps status: snr per satellite
+- commit rest of ble bugfixes
+- better gps height parsing
+- short delay in nrf update
+- nrf build job - app only - combined image
+- temp fix ble save tonecurve
+- fix gps height not sending
+- igc preview
+- battery percent log
+- BLE: change default route to 0xFFE0
+- BLE: change default route to 0xFFE0
+- BL: add delay before sync byte
+- bluetooth task cosmetic
+- blink bootloader while trying to sync
+- blink bootloader while trying to sync
+- BLE: add WDG
+- BLE: add WDG
+- fix battery percent log
+- fix error log battery write; more time for ble init 5sec
+- LIFTAIR_ZERO_V3: ADD Display
+- add display tests
+- change display driver
+- add mag correction
+- add nrf workspace
+- add nrf workspace
+- fix ble init issues
+- Initialize Bluetooth subtree history
+- Merge febb733 into Bluetooth subtree
+- LZ2: V120, nrf update working
+- move bluetooth stuff to separate submodule
