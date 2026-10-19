@@ -385,3 +385,8 @@
 - Merge febb733 into Bluetooth subtree
 - LZ2: V120, nrf update working
 - move bluetooth stuff to separate submodule
+
+### v1.5.3 _ 14:
+- remove nrf from auto deploy
+- verify nrf version read
+- fix: nrf version read final
