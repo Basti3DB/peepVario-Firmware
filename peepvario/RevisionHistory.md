@@ -342,3 +342,6 @@ R1
 - Merge febb733 into Bluetooth subtree
 - LZ2: V120, nrf update working
 - move bluetooth stuff to separate submodule
+
+### v1.5.4:
+- fix: PV ble init (from beta version)
