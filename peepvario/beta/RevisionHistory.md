@@ -393,3 +393,6 @@
 
 ### v1.5.3 _ 15:
 - fix: Calibration data saving on LZV2; fix: YAW eskf calculation; fix: USB init with SD Card
+
+### v1.5.4 _ 1:
+- fix: PV ble init (from beta version)

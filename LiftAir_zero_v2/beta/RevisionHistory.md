@@ -186,3 +186,6 @@
 
 ### v1.2.1 _ 1:
 - fix: Calibration data saving on LZV2; fix: YAW eskf calculation; fix: USB init with SD Card
+
+### v1.2.1 _ 2:
+- fix: PV ble init (from beta version)
