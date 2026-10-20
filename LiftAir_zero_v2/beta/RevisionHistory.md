@@ -189,3 +189,6 @@
 
 ### v1.2.1 _ 2:
 - fix: PV ble init (from beta version)
+
+### v1.2.1 _ 3:
+- Migrate user data
