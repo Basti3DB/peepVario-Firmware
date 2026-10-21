@@ -192,3 +192,9 @@
 
 ### v1.2.1 _ 3:
 - Migrate user data
+
+### v1.2.2 _ 1:
+- Some IGC signing thoughts
+- Change 3D view to Quaternion; some Orientation diagnostics
+- new LZV2 version
+- Add UTC start time to Bluetooth IGC preview
