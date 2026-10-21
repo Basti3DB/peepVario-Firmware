@@ -345,3 +345,9 @@ R1
 
 ### v1.5.4:
 - fix: PV ble init (from beta version)
+
+### v1.5.5:
+- Migrate user data
+- Some IGC signing thoughts
+- Change 3D view to Quaternion; some Orientation diagnostics
+- new LZV2 version
