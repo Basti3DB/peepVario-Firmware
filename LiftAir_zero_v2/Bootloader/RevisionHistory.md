@@ -5,5 +5,5 @@
 ### v1.0.0:
 * initial version
 
-### v1.0.0:
+### v1.1.0:
 * fix FW update
