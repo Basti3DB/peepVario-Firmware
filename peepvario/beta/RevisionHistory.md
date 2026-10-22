@@ -405,3 +405,6 @@
 - Change 3D view to Quaternion; some Orientation diagnostics
 - new LZV2 version
 - Add UTC start time to Bluetooth IGC preview
+
+### v1.5.5 _ 3:
+- add Thermal assistant for LZV2 & 3
