@@ -113,3 +113,8 @@
 
 ### v1.2.2 _ 2:
 - add Thermal assistant for LZV2 & 3
+
+### v1.2.2 _ 3:
+- reduce error piep duration from 10 to 5 sec
+- Update automatic github workflow to only build needed submodules
+- fix igc flight log sorting
