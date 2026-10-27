@@ -325,3 +325,6 @@
 - reduce error piep duration from 10 to 5 sec
 - Update automatic github workflow to only build needed submodules
 - fix igc flight log sorting
+
+### v1.5.5 _ 5:
+- Rise HAL_GET_TICK prio to 3, to fix hangers
