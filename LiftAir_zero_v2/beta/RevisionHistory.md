@@ -121,3 +121,11 @@
 
 ### v1.2.2 _ 4:
 - Rise HAL_GET_TICK prio to 3, to fix hangers
+
+### v1.2.2 _ 5:
+- first step for gps receiver maxm10
+- ble filesystem nav command
+- Bootloader double peep
+- remove nrf update fw after update
+- auto detect corrupted files on sdcard
+- add GPS soft disable/enable
