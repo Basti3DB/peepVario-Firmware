@@ -336,3 +336,10 @@
 - remove nrf update fw after update
 - auto detect corrupted files on sdcard
 - add GPS soft disable/enable
+
+### v1.5.5 _ 7:
+- fix config read on sdcard after fw update
+- fix data migration on eeprom after updates
+- fix stackoverflow when using ble config website
+- no 15min autoshutdown when usb is connected
+- Refactor: Move tasks to Helpers directory
