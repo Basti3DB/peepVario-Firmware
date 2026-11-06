@@ -343,3 +343,9 @@
 - fix stackoverflow when using ble config website
 - no 15min autoshutdown when usb is connected
 - Refactor: Move tasks to Helpers directory
+
+### v1.5.5 _ 8:
+- fix lzv2 production test
+- lzv3 display kinda working
+- lzv3 display integrated
+- improove thermal assistant
