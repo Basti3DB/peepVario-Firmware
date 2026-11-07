@@ -142,3 +142,9 @@
 - lzv3 display kinda working
 - lzv3 display integrated
 - improove thermal assistant
+
+### v1.2.3 _ 3:
+- fix audio volume change beep delay
+- fix fake buttonpress after statup while usb connected
+- add LZV3 display animations
+- faster ble disconnect detection
