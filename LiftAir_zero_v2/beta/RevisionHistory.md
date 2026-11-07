@@ -148,3 +148,6 @@
 - fix fake buttonpress after statup while usb connected
 - add LZV3 display animations
 - faster ble disconnect detection
+
+### v1.2.3 _ 4:
+- rename Filesystem volume name
