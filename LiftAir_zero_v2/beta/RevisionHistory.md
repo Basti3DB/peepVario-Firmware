@@ -151,3 +151,6 @@
 
 ### v1.2.3 _ 4:
 - rename Filesystem volume name
+
+### v1.2.4 _ 1:
+- apply filesysteme volume name to all products

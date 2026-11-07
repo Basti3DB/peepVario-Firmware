@@ -358,3 +358,6 @@
 
 ### v1.5.5 _ 10:
 - rename Filesystem volume name
+
+### v1.5.6 _ 1:
+- apply filesysteme volume name to all products
