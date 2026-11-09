@@ -361,3 +361,11 @@
 
 ### v1.5.6 _ 1:
 - apply filesysteme volume name to all products
+
+### v1.5.6 _ 2:
+- add heartbeat blinks to bootloader
+- auto delete old IGCs when full
+- automatic nrf fw recovery
+- add nrf ble bootloader updater
+- add ble bootloader query
+- github auto push for bootloaders (main)
