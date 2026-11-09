@@ -55,3 +55,7 @@ R2
 - add ble bootloader query
 - github auto push for bootloaders (main)
 - peepVario Bootloader size improovement
+
+### v1.2.5:
+- fix In-app-bootloader-updater
+- update version numbers
