@@ -162,3 +162,7 @@
 - add nrf ble bootloader updater
 - add ble bootloader query
 - github auto push for bootloaders (main)
+
+### v1.2.5 _ 1:
+- fix In-app-bootloader-updater
+- update version numbers

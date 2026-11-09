@@ -372,3 +372,7 @@
 
 ### v1.5.6 _ 3:
 - peepVario Bootloader size improovement
+
+### v1.5.6 _ 4:
+- fix In-app-bootloader-updater
+- update version numbers
