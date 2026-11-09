@@ -369,3 +369,6 @@
 - add nrf ble bootloader updater
 - add ble bootloader query
 - github auto push for bootloaders (main)
+
+### v1.5.6 _ 3:
+- peepVario Bootloader size improovement
