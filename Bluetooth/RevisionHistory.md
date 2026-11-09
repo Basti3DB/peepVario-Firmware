@@ -44,3 +44,13 @@ R1
 * Production bootloader update BIN (stream via app command 0x27): Bootloader/LiftAir_BLE_Bootloader_v030.bin
 * Source: https://github.com/Basti3DB/peepVario-dev-NRF/commit/4e87e1259a3cfb322ed4db4d3733782c94279c8a
 * Build and host tests: https://github.com/Basti3DB/peepVario-dev-NRF/actions/runs/42606599974
+
+### v1.5.2:
+* Production App-only BIN: LiftAir_BLE_App_v152.bin
+* Source: https://github.com/Basti3DB/peepVario-dev-NRF/commit/9438977c10aaea7c2ca56dfc80d9d40c181e3403
+* Build and host tests: https://github.com/Basti3DB/peepVario-dev-NRF/actions/runs/42612923414
+
+### Bootloader v0.3.1:
+* Production bootloader update BIN (stream via app command 0x27): Bootloader/LiftAir_BLE_Bootloader_v031.bin
+* Source: https://github.com/Basti3DB/peepVario-dev-NRF/commit/9438977c10aaea7c2ca56dfc80d9d40c181e3403
+* Build and host tests: https://github.com/Basti3DB/peepVario-dev-NRF/actions/runs/42612923414
