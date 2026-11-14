@@ -166,3 +166,8 @@
 ### v1.2.5 _ 1:
 - fix In-app-bootloader-updater
 - update version numbers
+
+### v1.2.5 _ 2:
+- NEW PRODUCT: PV2
+- update hw informations
+- Fix GPS scheduling
