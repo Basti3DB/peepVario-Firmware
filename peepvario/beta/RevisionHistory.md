@@ -381,3 +381,7 @@
 - NEW PRODUCT: PV2
 - update hw informations
 - Fix GPS scheduling
+
+### v1.6.0 _ 1:
+- add flight durartion to igc log preview
+- add PeepVario in-app-bootloader updater
