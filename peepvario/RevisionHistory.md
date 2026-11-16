@@ -236,3 +236,10 @@ R1
 - add ble bootloader query
 - github auto push for bootloaders (main)
 - peepVario Bootloader size improovement
+
+### v1.6.0:
+- NEW PRODUCT: PV2
+- update hw informations
+- Fix GPS scheduling
+- add flight durartion to igc log preview
+- add PeepVario in-app-bootloader updater
