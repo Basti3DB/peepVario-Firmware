@@ -59,3 +59,6 @@ R2
 ### v1.2.5:
 - fix In-app-bootloader-updater
 - update version numbers
+
+### v1.3.0:
+- Fix portable ESKF regression and dependency-free BLE host tests

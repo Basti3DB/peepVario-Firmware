@@ -243,3 +243,6 @@ R1
 - Fix GPS scheduling
 - add flight durartion to igc log preview
 - add PeepVario in-app-bootloader updater
+
+### v1.7.0:
+- Fix portable ESKF regression and dependency-free BLE host tests
