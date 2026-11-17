@@ -175,3 +175,6 @@
 ### v1.2.5 _ 3:
 - add flight durartion to igc log preview
 - add PeepVario in-app-bootloader updater
+
+### v1.3.0 _ 1:
+- Fix portable ESKF regression and dependency-free BLE host tests
